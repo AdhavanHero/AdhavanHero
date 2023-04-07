@@ -20,7 +20,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying B.Tech Computer Engineering at SRM University .\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence,WeB development and Exploring other domai.\
-✍️ &nbsp;In my free time, I pursue Exploring, Reading and Blog Writing as hobbies/side hustles.\
+✍️ &nbsp;In my free time, I pursue Exploring New domains, Reading and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for Sharing intersting articals and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at AdhavanPonram@gmail.com! I'll try to respond as soon as I can.\
 
