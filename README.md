@@ -40,10 +40,8 @@
 <h2> Connect with me on <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="left">
-<a href="https://twitter.com/adhavanadhava11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adhavanadhava11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adhavan-ponram-3377671ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adhavan-ponram-3377671ab/" height="30" width="40" /></a>
 <a href="https://instagram.com/_.aadhavan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.aadhavan_" height="30" width="40" /></a>
-<a href="https://discord.gg/Aadhavan#7838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aadhavan#7838" height="30" width="40" /></a>
 </p>
 
 
