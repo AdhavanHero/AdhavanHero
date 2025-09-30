@@ -52,6 +52,5 @@
 </p>
 
 -----
-Credits: [Adhavan Ponram](https://github.com/AdhavanHero)
 
 
