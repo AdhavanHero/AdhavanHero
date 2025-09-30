@@ -19,7 +19,7 @@
 
 💡 &nbsp;I love exploring new technologies and developing software solutions.\
 🌱 &nbsp;I'm on track to learn more about Data Science and explore new domains.\
-✍️ &nbsp;In my free time, I enjoy exploring new domains, reading, and writing blogs.\
+✍️ &nbsp;In my free time, I enjoy exploring new domains, reading, and writing blogs. \
 
 
 
