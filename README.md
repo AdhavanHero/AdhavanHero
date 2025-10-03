@@ -6,8 +6,6 @@
 <p align='center'>
 </p>
 
-[![Github](https://img.shields.io/github/followers/AdhavanHero?label=Follow&style=social)](https://github.com/AdhavanHero)
-
 <div size='20px'> 🚀 Welcome to my GitHub Space! I’m Adhavan, excited to share my projects with you. :smile: 
 </div>
 
