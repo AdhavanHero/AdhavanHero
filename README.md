@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://media.licdn.com/dms/image/v2/D5603AQELcsstDO-ryg/profile-displayphoto-shrink_400_400/B56ZXdL0swHEAg-/0/1743172619756?e=1773273600&v=beta&t=nWJSLsbCYVGVbZZ2x4nuruJOLI0MX7zmMksL_GEo8mA" width="120" style="border-radius: 50%;" />
-
+<img src="Photoroom-20250328_200510.png" width="120" style="border-radius: 50%;" />
 <h1>
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" />
   &nbsp;Adhavan Ponram
