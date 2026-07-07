@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="Photoroom-20250328_200510.png" width="120" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/AdhavanHero/AdhavanHero/main/Photoroom-20250328_200510.png" width="120" style="border-radius: 50%;" />
+
 <h1>
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" />
   &nbsp;Adhavan Ponram
